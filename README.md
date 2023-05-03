@@ -1,7 +1,7 @@
 # SoftwareEngineerTest
 
 **Note** to access all functions from after run the project
-         **https://localhost:7010/swagger/index.html**
+        Example: **https://localhost:7010/swagger/index.html**
 
 ## Database Requirements:
   - Create in a SQL database called (SoftwareEngineerTest) on your local machine.
@@ -16,7 +16,7 @@ o Driver: FirstName, LastName, Email, PhoneNumber**
 **Create the REST API using C# to perform the above operations**
 - Also added it in (Controllers) in (DriverController.cs).
 **You can use a simple interface in Angular or a CLI is acceptable as well**
-- you can see default interface in (https://localhost:7010/swagger/index.html).
+- you can see default interface in Example (https://localhost:7010/swagger/index.html).
 **Please have functionality built in to insert a list of 100 random names that you create. The
 names do not need to be actual names, random strings are fine**
 - this Api called (InsertDriverRandom100) in controller.
