@@ -14,15 +14,13 @@
 ### Create the REST API using C# to perform the above operations
 - Also added it in (Controllers) in (DriverController.cs).
 ### You can use a simple interface in Angular or a CLI is acceptable as well
-- you can see default interface in Example (https://localhost:7010/swagger/index.html).
+- You can see default interface in Example (https://localhost:7010/swagger/index.html).
 ### **Please have functionality built in to insert a list of 100 random names that you create. The names do not need to be actual names, random strings are fine**
-- this Api called (InsertDriverRandom100) in controller.
+- This called (InsertDriverRandom100) in controller.
 ### **Also have functionality to display an alphabetized list of the current users in the database**
-- this return all drivers names order by first name then last name called (SelectAllDriversOrdered).
-### **There should be functionality to return the user’s name alphabetized as well
-o Example return Oliver Johnson alphabetized
-o Example output: eilOrv hJnnoos**
-- this api return all driver names and alphabetalized there names Called (SelectAllDriversAlphabetized).
+- This return all drivers names order by first name then last name called (SelectAllDriversOrdered).
+### **There should be functionality to return the user’s name alphabetized as well o Example return Oliver Johnson alphabetized o Example output: eilOrv hJnnoos**
+- This api return all driver names and alphabetalized there names Called (SelectAllDriversAlphabetized).
 
 ## Screenshot after run :
 ![image](https://user-images.githubusercontent.com/108579670/236068560-d395e5c8-7d9b-4033-b34b-994c1871a105.png)
