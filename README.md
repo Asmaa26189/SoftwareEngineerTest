@@ -6,7 +6,7 @@
 ## Database Requirements:
   - Create in a SQL database called (SoftwareEngineerTest) on your local machine.
   - Create a table called (Drivers) with columns Id,FirstName, LastName, Email, PhoneNumber.
-  - Or you can run database script attached (SQLSoftwareEngineerTest.sql
+  - Or you can run database script attached (SQLSoftwareEngineerTest.sql)
 
 ## Requirements:
 **Please create a basic CRUD application without the use of Entity Framework that will allow the
